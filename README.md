@@ -1,7 +1,10 @@
 # 🎯 QA Portfolio – Manual & Automated
 
+👋 Hello! I'm Rafael. 
 Welcome to my Quality Assurance Portfolio!  
 Here you will find my Manual QA, Automated Testing projects, and SQL validation examples.
+
+[My LinkedIn profile](https://www.linkedin.com/in/rafaelalexandrecoelho/)
 
 ## 👤 About Me
 
@@ -29,6 +32,21 @@ During this journey, I have been deepening my knowledge in QA fundamentals, qual
 
 - Agile, Scrum, Kanban, DevOps, CI/CD, Shift-left Testing  
 - Bug Tracking and Incident Reporting 
+
+## 💡 Soft Skills
+- Communication  
+- Assertiveness  
+- Patience  
+- Empathy  
+- Creativity  
+- Leadership  
+
+---
+
+## 🌐 Languages
+- Portuguese – Native  
+- Spanish – Native  
+- English – B2
 
 ## 📁 Portfolio Structure
 
