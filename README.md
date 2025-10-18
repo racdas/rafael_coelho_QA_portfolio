@@ -1,6 +1,7 @@
 # 🎯 QA Portfolio – Manual & Automated
 
-👋 Hello! I'm Rafael. 
+👋 Hello! I'm Rafael.
+ 
 Welcome to my Quality Assurance Portfolio!  
 Here you will find my Manual QA, Automated Testing projects, and SQL validation examples.
 
@@ -34,6 +35,7 @@ During this journey, I have been deepening my knowledge in QA fundamentals, qual
 - Bug Tracking and Incident Reporting 
 
 ## 💡 Soft Skills
+
 - Communication  
 - Assertiveness  
 - Patience  
@@ -41,9 +43,8 @@ During this journey, I have been deepening my knowledge in QA fundamentals, qual
 - Creativity  
 - Leadership  
 
----
-
 ## 🌐 Languages
+
 - Portuguese – Native  
 - Spanish – Native  
 - English – B2
